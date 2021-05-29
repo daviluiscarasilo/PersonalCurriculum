@@ -6,6 +6,7 @@ import './i18n';
 
 ReactDOM.render(
   <React.StrictMode>
+
     <Suspense fallback={<span>Loading...</span>}>
       <App />
     </Suspense>
