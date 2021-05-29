@@ -4,6 +4,7 @@
 body{
   overflow-x: hidden; /* Hide scrollbars */
   background-color:#2a2c30 ;
+  padding-bottom: 60px;
 }
 *{
   font-family: 'Montserrat', sans-serif;
@@ -12,4 +13,12 @@ body{
 a {
   color: inherit; /* blue colors for links too */
   text-decoration: inherit; /* no underline */
+}
+img{
+  margin-right: 13px;
+}
+.languageActive{
+  border-bottom: solid;
+  border-color: #0487cc;
+  padding: 3px;
 }

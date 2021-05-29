@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
-
-.MainContainerSobre{
-    margin-top:  60px;
+.MainContainerSobre {
+    margin-top: 10px;
     background-color: #3a3b40;
 }
 
-.profileImg{
+.profileImg {
     border-radius: 64px;
     display: block;
     box-shadow: 0 0 5px rgb(0 0 0 / 40%);
@@ -13,32 +12,80 @@
     margin-bottom: 20px;
 }
 
-.text-download{
+.text-download {
     font-family: 'Oswald', sans-serif;
     color: #AAAA;
 }
+
 .download-resume {
     margin-bottom: 25px;
     padding: 17px 5px;
     text-align: center;
-    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    box-shadow: 0 0 5px rgba(0, 0, 0, .4);
     transition: all .3s;
-
 }
 
 .download-resume:hover {
-    box-shadow: 0 0 8px rgba(0,0,0,.30),0 0 12px rgba(0,0,0,.20);
-
+    box-shadow: 0 0 8px rgba(0, 0, 0, .30), 0 0 12px rgba(0, 0, 0, .20);
 }
 
-.info-profile{
+.info-profile {
     color: #EEEEEE;
     font-family: 'Oswald', sans-serif;
 }
-.info-profile > h3{
+
+.info-profile>h3 {
     font-weight: bold;
     font-size: 30px;
 }
-.info-profile > h3 >span{
-    color:#0487cc
+
+.info-profile>h4 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #AAAA;
+}
+
+.info-profile>h3>span {
+    color: #0487cc
+}
+
+.info-profile>p {
+    color: white;
+    font-size: 16px;
+    line-height: 28px
+}
+
+.ul-social-links {
+    list-style: none;
+    text-align: center;
+}
+
+.ul-info {
+    list-style: none;
+}
+
+.li-info {
+    padding-bottom: 10px;
+    color: white;
+}
+
+.title-info {
+    display: inline-block;
+    width: 120px;
+    color: #AAAA;
+}
+
+.li-social-links {
+    display: inline-block;
+    margin: 0 30px 12px;
+}
+
+.square {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    transition: all .2s;
+    font-size: 40px;
 }
