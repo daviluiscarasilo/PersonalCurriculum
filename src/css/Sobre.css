@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+.MainContainerSobre{
+    margin-top:  60px;
+    background-color: #3a3b40;
+}
+
+.profileImg{
+    border-radius: 64px;
+    display: block;
+    box-shadow: 0 0 5px rgb(0 0 0 / 40%);
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.text-download{
+    font-family: 'Oswald', sans-serif;
+    color: #AAAA;
+}
+.download-resume {
+    margin-bottom: 25px;
+    padding: 17px 5px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    transition: all .3s;
+
+}
+
+.download-resume:hover {
+    box-shadow: 0 0 8px rgba(0,0,0,.30),0 0 12px rgba(0,0,0,.20);
+
+}
+
+.info-profile{
+    color: #EEEEEE;
+    font-family: 'Oswald', sans-serif;
+}
+.info-profile > h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+.info-profile > h3 >span{
+    color:#0487cc
+}
