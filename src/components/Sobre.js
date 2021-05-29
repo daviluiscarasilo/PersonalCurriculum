@@ -37,15 +37,15 @@ const Sobre = () => {
                             <Col lg={6} xs={6} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "-webkit-center" }}>
                                 <img className="profileImg" src={profileImage}></img>
                                 <a href="https://drive.google.com/file/d/1f9iN0exARsS7_1yrCndmVOmIDsvcm76z/view?usp=sharing" target="_blank">
-                                    <div class="download-resume">
-                                        <span class="text-download"> <MdCloudDownload />   {t('DOWNLOAD_RESUME')}</span>
+                                    <div  className="download-resume">
+                                        <span  className="text-download"> <MdCloudDownload />   {t('DOWNLOAD_RESUME')}</span>
                                     </div>
                                 </a>
                             </Col>
 
                             <Col lg={6} xs={6} style={{ paddingTop: 10, paddingBottom: 10 }}>
                                 <Row>
-                                    <div class="info-profile">
+                                    <div  className="info-profile">
                                         <h3>
 
                                             {t('HI_IAM')} <span>DAVI L. CARASILO</span>
@@ -63,33 +63,33 @@ const Sobre = () => {
                         </Row>
                         <Row style={{ color: "#848586", borderTopStyle: "solid" }}>
                             <Col lg={10} xs={10} style={{ paddingTop: 10, paddingBottom: 10 }}>
-                                <ul class="ul-info">
-                                    <li class="li-info">
-                                        <span class="title-info">  {t('AGE')}</span>
-                                        <span class="info">22</span>
+                                <ul  className="ul-info">
+                                    <li  className="li-info">
+                                        <span  className="title-info">  {t('AGE')}</span>
+                                        <span  className="info">22</span>
                                     </li>
-                                    <li class="li-info">
-                                        <span class="title-info">{t('ADDRESS')}</span>
-                                        <span class="info">{t('ADDRESS_VALUE')}</span>
+                                    <li  className="li-info">
+                                        <span  className="title-info">{t('ADDRESS')}</span>
+                                        <span  className="info">{t('ADDRESS_VALUE')}</span>
                                     </li>
-                                    <li class="li-info">
-                                        <span class="title-info">{t('EMAIL')}</span>
-                                        <span class="info">{t('EMAIL_VALUE')}</span>
+                                    <li  className="li-info">
+                                        <span  className="title-info">{t('EMAIL')}</span>
+                                        <span  className="info">{t('EMAIL_VALUE')}</span>
                                     </li>
-                                    <li class="li-info">
-                                        <span class="title-info">{t('PHONE')}</span>
-                                        <span class="info">{t('PHONE_VALUE')}</span>
+                                    <li  className="li-info">
+                                        <span  className="title-info">{t('PHONE')}</span>
+                                        <span  className="info">{t('PHONE_VALUE')}</span>
                                     </li>
-                                    <li class="li-info">
-                                        <span class="title-info">{t('NATIONALITY')}</span>
-                                        <span class="info">{t('NATIONALITY_VALUE')}</span>
+                                    <li  className="li-info">
+                                        <span  className="title-info">{t('NATIONALITY')}</span>
+                                        <span  className="info">{t('NATIONALITY_VALUE')}</span>
                                     </li>
                                 </ul>
                             </Col>
                             <Col lg={2} xs={2} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "center" }}>
                                 <Row>
                                     <Col lg={12} xs={12}>
-                                        <span class="text-download">{t('CHECK_RESUME')}</span>
+                                        <span  className="text-download">{t('CHECK_RESUME')}</span>
                                     </Col>
                                 </Row>
                                 <Row>
@@ -101,19 +101,19 @@ const Sobre = () => {
                                 </Row>
                             </Col>
                             <Col lg={12} xs={12} style={{ paddingTop: 10, paddingBottom: 10 }}>
-                                <ul class="ul-social-links">
-                                    <li class="li-social-links">
-                                        <a class="square" href="https://www.facebook.com/daviluis.carasilo" target="_blank">
+                                <ul  className="ul-social-links">
+                                    <li  className="li-social-links">
+                                        <a  className="square" href="https://www.facebook.com/daviluis.carasilo" target="_blank">
                                             <RiFacebookBoxFill />
                                         </a>
                                     </li>
-                                    <li class="li-social-links">
-                                        <a class="square" href="https://www.linkedin.com/in/davi-luis-carasilo-934338171" target="_blank">
+                                    <li  className="li-social-links">
+                                        <a  className="square" href="https://www.linkedin.com/in/davi-luis-carasilo-934338171" target="_blank">
                                             <AiFillLinkedin />
                                         </a>
                                     </li>
-                                    <li class="li-social-links">
-                                        <a class="square" href="https://github.com/daviluiscarasilo" target="_blank">
+                                    <li  className="li-social-links">
+                                        <a  className="square" href="https://github.com/daviluiscarasilo" target="_blank">
                                             <AiOutlineGithub />
                                         </a>
                                     </li>

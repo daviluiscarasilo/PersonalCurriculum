@@ -9,7 +9,6 @@ ReactDOM.render(
     <Suspense fallback={<span>Loading...</span>}>
       <App />
     </Suspense>
-
   </React.StrictMode>,
   document.getElementById('root')
 );
