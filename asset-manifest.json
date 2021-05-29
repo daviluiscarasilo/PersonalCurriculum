@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cee0c64.chunk.css",
-    "main.js": "/static/js/main.4de8d114.chunk.js",
-    "main.js.map": "/static/js/main.4de8d114.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc85cbe0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc85cbe0.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.f14369fd.chunk.js": "/static/js/2.f14369fd.chunk.js",
-    "static/js/2.f14369fd.chunk.js.map": "/static/js/2.f14369fd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.9cee0c64.chunk.css.map": "/static/css/main.9cee0c64.chunk.css.map",
-    "static/js/2.f14369fd.chunk.js.LICENSE.txt": "/static/js/2.f14369fd.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
-    "static/media/profileImage.77662089.jpeg": "/static/media/profileImage.77662089.jpeg"
+    "main.css": "/PersonalCurriculum/static/css/main.9cee0c64.chunk.css",
+    "main.js": "/PersonalCurriculum/static/js/main.cfabc8cf.chunk.js",
+    "main.js.map": "/PersonalCurriculum/static/js/main.cfabc8cf.chunk.js.map",
+    "runtime-main.js": "/PersonalCurriculum/static/js/runtime-main.f59de15b.js",
+    "runtime-main.js.map": "/PersonalCurriculum/static/js/runtime-main.f59de15b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PersonalCurriculum/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f14369fd.chunk.js": "/PersonalCurriculum/static/js/2.f14369fd.chunk.js",
+    "static/js/2.f14369fd.chunk.js.map": "/PersonalCurriculum/static/js/2.f14369fd.chunk.js.map",
+    "index.html": "/PersonalCurriculum/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PersonalCurriculum/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9cee0c64.chunk.css.map": "/PersonalCurriculum/static/css/main.9cee0c64.chunk.css.map",
+    "static/js/2.f14369fd.chunk.js.LICENSE.txt": "/PersonalCurriculum/static/js/2.f14369fd.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/PersonalCurriculum/static/media/getFetch.582d29c4.cjs",
+    "static/media/profileImage.77662089.jpeg": "/PersonalCurriculum/static/media/profileImage.77662089.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc85cbe0.js",
+    "static/js/runtime-main.f59de15b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.f14369fd.chunk.js",
     "static/css/main.9cee0c64.chunk.css",
-    "static/js/main.4de8d114.chunk.js"
+    "static/js/main.cfabc8cf.chunk.js"
   ]
 }
