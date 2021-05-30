@@ -20,7 +20,8 @@ i18n
     lng: 'en',
     backend: {
       /* translation file path */
-      loadPath: 'PersonalCurriculum/assets/i18n/{{ns}}/{{lng}}.json',
+      //TODO adicionar prefixo PersonalCurriculum no caso de rodar local, remover antes de cada deploy
+      loadPath: 'assets/i18n/{{ns}}/{{lng}}.json',
       allowMultiLoading: false, // set loadPath: '/locales/resources.json?lng={{lng}}&ns={{ns}}' to adapt to multiLoading
 
 
