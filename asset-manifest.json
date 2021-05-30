@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PersonalCurriculum/static/css/main.9cee0c64.chunk.css",
-    "main.js": "/PersonalCurriculum/static/js/main.14995175.chunk.js",
-    "main.js.map": "/PersonalCurriculum/static/js/main.14995175.chunk.js.map",
+    "main.js": "/PersonalCurriculum/static/js/main.bf20c44f.chunk.js",
+    "main.js.map": "/PersonalCurriculum/static/js/main.bf20c44f.chunk.js.map",
     "runtime-main.js": "/PersonalCurriculum/static/js/runtime-main.bae61e1d.js",
     "runtime-main.js.map": "/PersonalCurriculum/static/js/runtime-main.bae61e1d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/PersonalCurriculum/static/css/2.4c97ca4f.chunk.css",
@@ -12,6 +12,7 @@
     "static/css/2.4c97ca4f.chunk.css.map": "/PersonalCurriculum/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.9cee0c64.chunk.css.map": "/PersonalCurriculum/static/css/main.9cee0c64.chunk.css.map",
     "static/js/2.7999bfde.chunk.js.LICENSE.txt": "/PersonalCurriculum/static/js/2.7999bfde.chunk.js.LICENSE.txt",
+    "static/media/android-chrome-512x512.79c730ac.svg": "/PersonalCurriculum/static/media/android-chrome-512x512.79c730ac.svg",
     "static/media/getFetch.cjs": "/PersonalCurriculum/static/media/getFetch.582d29c4.cjs",
     "static/media/profileImage.77662089.jpeg": "/PersonalCurriculum/static/media/profileImage.77662089.jpeg"
   },
@@ -20,6 +21,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.7999bfde.chunk.js",
     "static/css/main.9cee0c64.chunk.css",
-    "static/js/main.14995175.chunk.js"
+    "static/js/main.bf20c44f.chunk.js"
   ]
 }
