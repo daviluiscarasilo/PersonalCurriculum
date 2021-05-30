@@ -20,7 +20,7 @@ i18n
     lng: 'en',
     backend: {
       /* translation file path */
-      loadPath: './assets/i18n/{{ns}}/{{lng}}.json',
+      loadPath: 'PersonalCurriculum/assets/i18n/{{ns}}/{{lng}}.json',
       allowMultiLoading: false, // set loadPath: '/locales/resources.json?lng={{lng}}&ns={{ns}}' to adapt to multiLoading
 
 

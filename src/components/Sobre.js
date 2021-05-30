@@ -32,9 +32,9 @@ const Sobre = () => {
                     transitionDuration="3000"
                     onComplete={() => setCarregando}
                 >
-                    <Col className="offset-lg-2 offset-xs-2 MainContainerSobre" lg={8} xs={8} style={{}}>
+                    <Col className="offset-lg-2 MainContainerSobre" lg={8} xs={12} style={{}}>
                         <Row>
-                            <Col lg={6} xs={6} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "-webkit-center" }}>
+                            <Col lg={6} xs={12} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "-webkit-center" }}>
                                 <img className="profileImg" src={profileImage}></img>
                                 <a href="https://drive.google.com/file/d/1f9iN0exARsS7_1yrCndmVOmIDsvcm76z/view?usp=sharing" target="_blank">
                                     <div  className="download-resume">
@@ -43,7 +43,7 @@ const Sobre = () => {
                                 </a>
                             </Col>
 
-                            <Col lg={6} xs={6} style={{ paddingTop: 10, paddingBottom: 10 }}>
+                            <Col lg={6} xs={12} style={{ paddingTop: 10, paddingBottom: 10 }}>
                                 <Row>
                                     <div  className="info-profile">
                                         <h3>
@@ -62,7 +62,7 @@ const Sobre = () => {
                             </Col>
                         </Row>
                         <Row style={{ color: "#848586", borderTopStyle: "solid" }}>
-                            <Col lg={10} xs={10} style={{ paddingTop: 10, paddingBottom: 10 }}>
+                            <Col lg={10} xs={12} style={{ paddingTop: 10, paddingBottom: 10 }}>
                                 <ul  className="ul-info">
                                     <li  className="li-info">
                                         <span  className="title-info">  {t('AGE')}</span>
@@ -86,7 +86,7 @@ const Sobre = () => {
                                     </li>
                                 </ul>
                             </Col>
-                            <Col lg={2} xs={2} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "center" }}>
+                            <Col lg={2} xs={12} style={{ paddingTop: 10, paddingBottom: 10, textAlign: "center" }}>
                                 <Row>
                                     <Col lg={12} xs={12}>
                                         <span  className="text-download">{t('CHECK_RESUME')}</span>
